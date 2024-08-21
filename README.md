@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+creating-sceneries
+# Creating Sceneries
 
-Based on "ABC" at https://www.abc.com/
+Based on "User Guide(VI): A Comprehensive Guide to Creating Stunning Scenes without Artistic Expertise with Top Tool Recommendation" at https://www.tripo3d.ai/blog/tripo-user-guide-vi-create-scenes-without-artistic-expertise
 
 ## 100 - Introduction
 
